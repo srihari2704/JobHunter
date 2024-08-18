@@ -1,0 +1,6 @@
+MANHATTAN,mah
+AVS,vins
+PEROS,pezo
+QUATZ,qus
+YARN,ynz
+OPHEN,op234

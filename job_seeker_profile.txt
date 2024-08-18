@@ -1,0 +1,14 @@
+yuktha YukV 19 female Chennai none webdeveloper 1 30000 night 1 0 1
+yuktha YukV 19 female Chennai none editor 3 30000 day 1 0 1
+Srihari SriHari 20 male Chennai freelancer editor 4 60000 day 1 1 1
+Vishal VSS 21 male Chennai webdeveloper webeveloper 5 80000 day 1 1 1
+Vishal VSS 21 male Chennai webdeveloper editor 4 75000 night 1 0 1
+Vishal VSS 21 male Chennai webdeveloper accoutant 2 40000 day 0 1 1
+Tarun TARN 20 male Chennai none freelancer 2 50000 day 1 1 1
+Vidisha VIDS 19 female Chennai marketer marketer 2 30000 day 1 1 1
+Srinidhi NIDHI 20 female Chennai freelancer datascientist 2 60000 day 1 1 1
+Srinidhi NIDHI 20 female Chennai freelancer accoutant 3 20000 day 1 1 1
+Srinidhi NIDHI 20 female Chennai freelancer editor 4 60000 day 1 1 1
+Aradhana Arya61 22 female Mumbai editor editor 2 45000 day 1 1 1
+Aradhana Arya61 22 female Mumbai editor webdeveloper 3 67000 day 1 0 1
+Shivani SHIV234 20 female Chennai none editor 3 50000 day 1 1 1

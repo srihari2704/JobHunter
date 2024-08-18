@@ -1,0 +1,8 @@
+Manhattan MANHATTAN Hyderabad editor 19 female 0 1 1 50000 day 1 0 1
+Manhattan MANHATTAN Hyderabad webdeveloper 18 male 1 2 1 90000 day 1 1 1
+Vines AVS Banglore editor 18 male 0 1 1 60000 day 1 1 1
+pezoz PEROS Delhi webdeveloper 20 female 0 2 1 80000 day 1 1 1
+Quatzer QUATZ Mumbai accoutant 20 male 1 4 1 100000 day 1 1 1
+YARN YARN Chennai datascientist 24 female 1 4 1 96000 day 1 1 1
+YARN YARN Chennai marketer 25 male 1 4 1 70000 day 1 1 1
+Ophenr OPHEN Hyderabad datascientist 20 female 0 2 0 70000 day 1 1 1
